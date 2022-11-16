@@ -2,7 +2,7 @@ Hi 👋 ,
 
 **I’m Sivasurya** **_(Data Scientist Enthusiast)_**
 
-👀 Worked in - AssistEdge, SQL Server, ELK Stack, RabbitMQ
+👀 Worked in - AssistEdge, SQL Server, ELK Stack, RabbitMQ and FrontEnd
 
 🌱 Familiar with - Python, SQL, JavaScript, HTML, CSS, Bootstrap, JQuery
 
