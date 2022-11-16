@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Sivasurya-J
+- 👋 Hi, 
+**I’m @Sivasurya-J** _Data Scientist Enthusiast_
 - 👀 I’m interested in ...   
 - 🌱 I’m currently learning ... Data Science and Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on ...
