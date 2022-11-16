@@ -1,6 +1,6 @@
 Hi 👋 , 
 
-**I’m Sivasurya** **_Data Scientist Enthusiast_**
+**I’m Sivasurya** **_(Data Scientist Enthusiast)_**
 
 👀 Worked in - AssistEdge, SQL Server, ELK Stack, RabbitMQ
 
