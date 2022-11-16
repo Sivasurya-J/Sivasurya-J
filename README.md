@@ -1,5 +1,8 @@
 - 👋 Hi, 
 **I’m @Sivasurya-J** **_Data Scientist Enthusiast_**
+👀 Worked in - AssistEdge, SQL Server, ELK Stack, RabbitMQ
+🌱 Familiar with - Python, SQL, JavaScript, HTML, CSS, Bootstrap, JQuery
+💞️ I’m currently learning - Data Science, Machine Learning, Deep Learning, Big Data
 <!-- - 👀 I’m interested in ...   
 - 🌱 I’m currently learning ... Data Science and Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on ...
