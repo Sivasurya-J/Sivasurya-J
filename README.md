@@ -1,6 +1,6 @@
 Hi 👋 , 
 
-**I’m Sivasurya** **_(Data Scientist Enthusiast)_**
+**I’m Sivasurya** **_(Data Scientist and AI/ML Engineer)_**
 
 👀 Worked in - AssistEdge, SQL Server, ELK Stack, RabbitMQ and FrontEnd
 
