@@ -2,12 +2,9 @@ Hi 👋 ,
 
 **I’m Sivasurya** **_(Data Scientist and AI/ML Engineer)_**
 
-👀 Worked in - AssistEdge, SQL Server, ELK Stack, RabbitMQ and FrontEnd
+👀 Worked in - AssistEdge, SQL Server, ELK Stack, RabbitMQ, JavaScript, HTML, CSS, Bootstrap, JQuery
 
-🌱 Familiar with - Python, SQL, JavaScript, HTML, CSS, Bootstrap, JQuery
-
-💞️ I’m currently learning - Data Science, Machine Learning, Deep Learning, Big Data
-
+💞️ I’m currently working in - Python, SQL, Data Science, Machine Learning, Artificial Intelligence
 <!-- - 👀 I’m interested in ...   
 - 🌱 I’m currently learning ... Data Science and Machine Learning Algorithms
 - 💞️ I’m looking to collaborate on ...
